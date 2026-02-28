@@ -1,0 +1,17 @@
+.env
+.env.*
+.env.local
+.claude/
+CLAUDE.md
+docs/
+scripts/
+.vercel/
+__pycache__/
+*.pyc
+*.duckdb
+*.duckdb.wal
+.venv/
+venv/
+data/
+nul
+scratchpad.txt
